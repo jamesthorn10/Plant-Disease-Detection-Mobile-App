@@ -1,1 +1,2 @@
 "The project is in its early stage of development as of 11 September 2024, more details shall be added soon."
+"So far the Model training part has been done and the work on the frontend and backend has started as of 3 December 2024"
